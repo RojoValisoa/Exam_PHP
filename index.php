@@ -8,6 +8,11 @@
 
 </head>
 <body>
+<div class="titre"> 
+    <h1>PHP AVANCEE</h1>
+    <h2>Rojo Valisoa</h2>
+    <p>Personne voiture</p>
+</div>
 <!-- partial:index.partial.html -->
 <div class="toggle" id="toggle" onclick="menu-expand()">
 <i class="fa fa-plus" id="plus"></i>

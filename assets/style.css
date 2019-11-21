@@ -1,12 +1,12 @@
 body{
-  background-color: #eedddd;
+  background-color:#fffdf9;
   padding: 0px;
   margin: 0px;
   overflow: hidden;
 }
 
 .toggle {
-  background-color: #c87f8a;
+  background-color: #beebe9;
   text-align: center;
   height: 100px;
   width: 100px;
@@ -34,7 +34,7 @@ body{
   transform: scale(0);
   border-radius: 50%;
   border-style: double;
-  border-color: #c87f8a;
+  border-color: #9be3de;
   position: absolute;
   margin: auto;
   top: 0px;
@@ -84,4 +84,12 @@ a:nth-child(6){
 
 a:hover {
   color: #c87f8a;
+}
+
+
+.titre{
+  padding: 60px;
+  text-align: center;
+  color: #337c77;
+  font-size: 15px;
 }
